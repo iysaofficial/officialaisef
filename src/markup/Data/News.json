@@ -1,0 +1,25 @@
+{
+  "ListNews": [
+    {
+      "id": 1,
+      "image": "368PenelitiMuda.WebP",
+      "title": "368 YOUNG RESEARCHERS FROM 15 COUNTRIES SHOW OFF AT AISEEF 2023",
+      "description": "Friday, February 10, 2023, the Faculty of Engineering, Diponegoro University collaborated with the Indonesian Young Scientist Association (IYSA) in organizing an event titled ASEAN Innovative Science Environmental and Entrepreneur Fair (AISEEF) 2023.",
+      "link": "/News1"
+    },
+    {
+      "id": 2,
+      "image": "368PenelitiMuda.WebP",
+      "title": "368 YOUNG RESEARCHERS FROM 15 COUNTRIES SHOW OFF AT AISEEF 2023",
+      "description": "Friday, February 10, 2023, the Faculty of Engineering, Diponegoro University collaborated with the Indonesian Young Scientist Association (IYSA) in organizing an event titled ASEAN Innovative Science Environmental and Entrepreneur Fair (AISEEF) 2023.",
+      "link": "/News1"
+    },
+    {
+      "id": 3,
+      "image": "368PenelitiMuda.WebP",
+      "title": "368 YOUNG RESEARCHERS FROM 15 COUNTRIES SHOW OFF AT AISEEF 2023",
+      "description": "Friday, February 10, 2023, the Faculty of Engineering, Diponegoro University collaborated with the Indonesian Young Scientist Association (IYSA) in organizing an event titled ASEAN Innovative Science Environmental and Entrepreneur Fair (AISEEF) 2023.",
+      "link": "/News1"
+    }
+  ]
+}
