@@ -92,7 +92,7 @@ class Contact extends Component {
                                                 <div className="form-group">
                                                     <div className="input-group">
                                                         <span className="input-group-addon"><i className="ti-agenda text-primary"></i></span>
-                                                        <textarea name="Message" rows="4" className="form-control" required placeholder="Tell us about your project or idea"></textarea>
+                                                        <textarea name="Message" rows="4" className="form-control" required placeholder="Your Message"></textarea>
                                                     </div>
                                                 </div>
                                             </div>
