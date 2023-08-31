@@ -52,7 +52,7 @@ class HeaderMenu extends Component {
           {/* PRESSRELEASE */}
           <li>
             <Link to={"#"}>
-              News <i className="fa fa-chevron-down"></i>
+              Media Coverage <i className="fa fa-chevron-down"></i>
               {""}
             </Link>
             <ul className="sub-menu left">
