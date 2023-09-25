@@ -18,7 +18,7 @@ class CompListNews extends Component {
           <div class="container mt-4">
             <div class="row">
               {/* list 1 awal */}
-              <div class="col-3  mb-4">
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
                 <div class="card">
                   <img
                     src={Gambar1}
@@ -48,7 +48,7 @@ class CompListNews extends Component {
               </div>
               {/* list 1 akhir */}
               {/* List 2 awal */}
-              <div class="col-3  mb-4">
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
                 <div class="card">
                   <img
                     src={Gambar2}
@@ -75,7 +75,7 @@ class CompListNews extends Component {
               </div>
               {/* List 2 akhir */}
               {/* List 3 awal */}
-              <div class="col-3  mb-4">
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
                 <div class="card">
                   <img
                     src={Gambar3}
@@ -105,7 +105,7 @@ class CompListNews extends Component {
               {/* List 3 akhir */}
 
               {/* List 4 awal */}
-              <div class="col-3  mb-4">
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
                 <div class="card">
                   <img
                     src={Gambar4}
@@ -134,7 +134,7 @@ class CompListNews extends Component {
               </div>
               {/* List 4 akhir */}
               {/* List 5 awal */}
-              <div class="col-3  mb-4">
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
                 <div class="card">
                   <img
                     src={Gambar5}
