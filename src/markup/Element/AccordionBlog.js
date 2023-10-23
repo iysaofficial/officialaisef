@@ -6,7 +6,7 @@ const defaultAccordion = [
 	{
 	  title: '1. Minsa, when will we get our LoA and Invoice? Where was it sent?',
 	  text:
-		'The committee will send LoA and Invoice no later than 7 working days after you register. We will send the LoA and Invoice to the team leaders email, so make sure you include a valid and correct email address!',
+		'The committee will send LoA and Invoice no later than 14 working days after you register. We will send the LoA and Invoice to the team leaders email, so make sure you include a valid and correct email address!',
 	},
 	{
 	  title: '2. Minsa, I registered a week ago but how come I havent received the LoA and Invoice yet?',
