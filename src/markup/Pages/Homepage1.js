@@ -126,7 +126,7 @@ class Homepage extends Component {
             </div>
             {/* <!-- Testimonials END --> */}
 
-            {/* <!-- Pricing Table --> */}
+            
             {/* <div className="section-full content-inner bg-gray pricing-bx">
               <div className="container">
                 <div className="row">
