@@ -93,6 +93,7 @@ class CompNews2 extends Component {
                   <a
                     href="https://www.unimed.ac.id/2023/02/17/mahasiswa-unimed-raih-medali-perak-pada-aiseef-2023/"
                     target="_blank"
+                    rel='noreferrer noopener'
                   >
                     Click Here
                   </a>

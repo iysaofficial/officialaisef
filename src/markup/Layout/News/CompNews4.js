@@ -109,6 +109,7 @@ class CompNews4 extends Component {
                   <a
                     href="https://www.antaranews.com/berita/2711785/mahasiswa-unej-sabet-medali-emas-ajang-internasional-aiseef-2022"
                     target="_blank"
+                    rel='noreferrer noopener'
                   >
                     Click Here
                   </a>

@@ -128,6 +128,7 @@ class CompNews3 extends Component {
                   <a
                     href="https://jatim.kemenag.go.id/berita/520459/jatim.kemenag.go.id"
                     target="_blank"
+                    rel='noreferrer noopener'
                   >
                     Click Here
                   </a>

@@ -128,6 +128,7 @@ class CompNews1 extends Component {
                   <a
                     href="https://ft.undip.ac.id/368-peneliti-muda-dari-15-negara-unjuk-gigi-dalam-aiseef-2023/"
                     target="_blank"
+                    rel='noreferrer noopener'
                   >
                     Click Here
                   </a>

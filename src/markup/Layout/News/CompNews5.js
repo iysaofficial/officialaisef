@@ -109,6 +109,7 @@ class CompNews5 extends Component {
                   <a
                     href="https://www.detik.com/jatim/jatim-moncer/d-5936894/pelajar-lamongan-ini-raih-silver-medal-di-ajang-inovasi-sains-internasional"
                     target="_blank"
+                    rel='noreferrer noopener'
                   >
                     Click Here
                   </a>

@@ -11,7 +11,7 @@ import 'react-modal-video/css/modal-video.min.css';
 
 function App() {
   const [body_, setbody_] = useState();
-  const [header, setHeader] = useState('fixed');
+  const [header] = useState('fixed');
   const [header_, setHeader_] = useState();
   let scrollPosition = useScrollPosition();
 
@@ -26,7 +26,7 @@ function App() {
     header === 'fixed' && scrollPosition > 10
       ? header_ && header_[0].classList.add('is-fixed')
       : header_ && header_[0].classList.remove('is-fixed');
-  }
+  }  
   return (
     <div className="App">
       <Markup />
