@@ -150,7 +150,7 @@ class Homepage extends Component {
                         because C19
                       </h5>
                     </div> */}
-            {/* text-data-1  */}
+
             {/* <div className="section-content box-sort-in button-example m-t80">
                       <div className="pricingtable-row">
                         <div className="row max-w1000 m-auto">
