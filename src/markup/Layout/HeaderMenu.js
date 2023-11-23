@@ -77,7 +77,7 @@ class HeaderMenu extends Component {
           {/* PAGES*/}
           <li>
             <a
-              href="https://drive.google.com/file/d/1TmCK_U8rYBSFkVUPsI-w2u_Kj0YxuZU0/view?usp=share_link"
+              href="https://drive.google.com/file/d/1Us15HwkNMaQxWyuC0FKeSDGjIUGuERrd/view?usp=sharing"
               target="_blank"
               rel="noreferrer noopener"
               className="dez-page"

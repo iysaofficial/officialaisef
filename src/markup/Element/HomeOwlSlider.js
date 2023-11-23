@@ -11,10 +11,7 @@ function SampleNextArrow(props) {
   const { onClick } = props;
   return (
     <div className="owl-nav">
-      <div
-        className="owl-next la la-angle-right"
-        onClick={onClick}
-      />
+      <div className="owl-next la la-angle-right" onClick={onClick} />
     </div>
   );
 }
@@ -70,39 +67,40 @@ class HomeOwlSlider extends Component {
       >
         <div className="item slide-item">
           <div className="slide-item-img">
-            <img
-              src={Slider4}
-              className="w-100"
-              alt=""
-            />
+            <img src={Slider4} className="w-100" alt="" />
           </div>
           <div className="slide-content overlay-primary">
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE
-                  ENVIRONMENTAL
+                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
                   <br />
                   AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                 <b>COMING SOON 2024</b>
+                  <b>OPEN REGISTRATION!</b>
                   <br />
                 </h2>
-              
+
                 <figure>
-                  <a href="https://www.youtube.com/watch?v=f0irpFOXnsE" 
-                  rel="noreferrer noopener"
-                  target="_blank" 
-                  className="site-button m-r10 white button-lg">After Movie</a>
+                  <a
+                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                    className="site-button m-r10 white button-lg"
+                  >
+                    Registration
+                  </a>
                 </figure>
-                {/* <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSfpWF8OgVzgrB4kwwKIbqvcSGz4qrWV2GW4TlGpyLoVhrqKTQ/viewform?usp=share_link"
+                <a
+                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  rel="noreferrer noopener"
+                  target="_blank"
                   className="site-button m-r10 white button-lg"
                 >
                   After Movie
-                </a> */}
+                </a>
                 {/* <a
                   href="https://drive.google.com/file/d/1TmCK_U8rYBSFkVUPsI-w2u_Kj0YxuZU0/view?usp=sharing"
                   className="site-button outline outline-2 button-lg"
@@ -115,39 +113,40 @@ class HomeOwlSlider extends Component {
         </div>
         <div className="item slide-item">
           <div className="slide-item-img">
-            <img
-              src={Slider1}
-              className="w-100"
-              alt=""
-            />
+            <img src={Slider1} className="w-100" alt="" />
           </div>
           <div className="slide-content overlay-primary">
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE
-                  ENVIRONMENTAL
+                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
                   <br />
                   AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                 <b>COMING SOON 2024</b>
+                  <b>OPEN REGISTRATION!</b>
                   <br />
                 </h2>
 
                 <figure>
-                  <a href="https://www.youtube.com/watch?v=f0irpFOXnsE" 
-                  className="site-button m-r10 white button-lg">After Movie</a>
+                  <a
+                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                    className="site-button m-r10 white button-lg"
+                  >
+                    Registration
+                  </a>
                 </figure>
-
-
-                {/* <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSfpWF8OgVzgrB4kwwKIbqvcSGz4qrWV2GW4TlGpyLoVhrqKTQ/viewform?usp=share_link"
+                <a
+                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  rel="noreferrer noopener"
+                  target="_blank"
                   className="site-button m-r10 white button-lg"
                 >
-                  Register
-                </a> */}
+                  After Movie
+                </a>
                 {/* <a
                   href="https://drive.google.com/file/d/1TmCK_U8rYBSFkVUPsI-w2u_Kj0YxuZU0/view?usp=sharing"
                   className="site-button outline outline-2 button-lg"
@@ -160,38 +159,40 @@ class HomeOwlSlider extends Component {
         </div>
         <div className="item slide-item">
           <div className="slide-item-img">
-            <img
-              src={Slider3}
-              className="w-100"
-              alt=""
-            />
+            <img src={Slider3} className="w-100" alt="" />
           </div>
           <div className="slide-content overlay-primary">
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE
-                  ENVIRONMENTAL
+                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
                   <br />
                   AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                 <b>COMING SOON 2024</b>
+                  <b>OPEN REGISTRATION!</b>
                   <br />
                 </h2>
 
                 <figure>
-                  <a href="https://www.youtube.com/watch?v=f0irpFOXnsE" className="site-button m-r10 white button-lg">After Movie</a>
+                  <a
+                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                    className="site-button m-r10 white button-lg"
+                  >
+                    Registration
+                  </a>
                 </figure>
-
-
-                {/* <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSfpWF8OgVzgrB4kwwKIbqvcSGz4qrWV2GW4TlGpyLoVhrqKTQ/viewform?usp=share_link"
+                <a
+                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  rel="noreferrer noopener"
+                  target="_blank"
                   className="site-button m-r10 white button-lg"
                 >
-                  Register
-                </a> */}
+                  After Movie
+                </a>
                 {/* <a
                   href="https://drive.google.com/file/d/1TmCK_U8rYBSFkVUPsI-w2u_Kj0YxuZU0/view?usp=sharing"
                   className="site-button outline outline-2 button-lg"
@@ -204,37 +205,40 @@ class HomeOwlSlider extends Component {
         </div>
         <div className="item slide-item">
           <div className="slide-item-img">
-            <img
-              src={Slider2}
-              className="w-100"
-              alt=""
-            />
+            <img src={Slider2} className="w-100" alt="" />
           </div>
           <div className="slide-content overlay-primary">
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE
-                  ENVIRONMENTAL
+                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
                   <br />
                   AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                 <b>COMING SOON 2024</b>
+                  <b>COMING SOON 2024</b>
                   <br />
                 </h2>
 
                 <figure>
-                  <a href="https://www.youtube.com/watch?v=f0irpFOXnsE" className="site-button m-r10 white button-lg">After Movie</a>
+                  <a
+                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    rel="noreferrer noopener"
+                    target="_blank"
+                    className="site-button m-r10 white button-lg"
+                  >
+                    Registration
+                  </a>
                 </figure>
-                
-                {/* <a
-                  href="https://forms.gle/6pehw2miM5kKzZ3MA"
+                <a
+                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  rel="noreferrer noopener"
+                  target="_blank"
                   className="site-button m-r10 white button-lg"
                 >
-                  Get Started
-                </a> */}
+                  After Movie
+                </a>
                 {/* <a
                   href="https://drive.google.com/file/d/1TmCK_U8rYBSFkVUPsI-w2u_Kj0YxuZU0/view?usp=sharing"
                   className="site-button outline outline-2 button-lg"
