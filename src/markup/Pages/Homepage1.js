@@ -78,7 +78,7 @@ class Homepage extends Component {
                   <h2 className="box-title m-tb0">
                     Categories <span className="bg-primary"></span>
                   </h2>
-                  <p>Wich catgories for join with us</p>
+                  <p>Wich categories for join with us</p>
                 </div>
               </div>
               <div className="development-box">
@@ -93,7 +93,7 @@ class Homepage extends Component {
                   <h4 className="text-gray-dark m-b10">Event Story</h4>
                   <h2 className="box-title m-tb0">
                     Our Success Event
-                    <br /> 2020 - 2022
+                    <br /> 2020 - 2023
                     <span className="bg-primary"></span>
                   </h2>
                 </div>

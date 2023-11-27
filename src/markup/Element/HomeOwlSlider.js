@@ -73,9 +73,8 @@ class HomeOwlSlider extends Component {
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
+                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND ENTREPRENEUR FAIR
                   <br />
-                  AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
@@ -119,9 +118,8 @@ class HomeOwlSlider extends Component {
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
+                ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND ENTREPRENEUR FAIR
                   <br />
-                  AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
@@ -165,9 +163,8 @@ class HomeOwlSlider extends Component {
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
+                ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND ENTREPRENEUR FAIR
                   <br />
-                  AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
@@ -211,13 +208,12 @@ class HomeOwlSlider extends Component {
             <div className="slide-content-box container">
               <div className="max-w600 text-white">
                 <h2 className="text-white font-weight-400">
-                  ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL
+                ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND ENTREPRENEUR FAIR
                   <br />
-                  AND ENTREPRENEUR FAIR <br />
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>COMING SOON 2024</b>
+                  <b>OPEN REGISTRATION!</b>
                   <br />
                 </h2>
 

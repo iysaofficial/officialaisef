@@ -17,6 +17,9 @@ import pic9 from './../../images/main/aisef9.JPG';
 import pic10 from './../../images/main/aisef10.JPG';
 import pic11 from './../../images/main/aisef11.JPG';
 import pic12 from './../../images/main/aisef12.jpg';
+import pic13 from './../../images/main/23-12.jpg';
+import pic14 from './../../images/main/23-13.jpg';
+import pic15 from './../../images/main/23-14.jpg';
 
 const contentBlog = [
   { images: pic1, desc: 2020 },
@@ -31,6 +34,9 @@ const contentBlog = [
   { images: pic10, desc: 2022 },
   { images: pic11, desc: 2022 },
   { images: pic12, desc: 2022 },
+  { images: pic13, desc: 2023 },
+  { images: pic14, desc: 2023 },
+  { images: pic15, desc: 2023 },
 ];
 //Light Gallery on icon click
 const Iconimage = (props) => {
