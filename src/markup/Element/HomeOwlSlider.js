@@ -78,18 +78,18 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>OPEN REGISTRATION!</b>
+                  <b>CLOSE REGISTRATION</b>
                   <br />
                 </h2>
 
                 <figure>
                   <a
-                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    href="/"
                     rel="noreferrer noopener"
                     target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
-                    Registration
+                    CLOSE REGISTRATION
                   </a>
                 </figure>
                 <a
@@ -123,18 +123,18 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>OPEN REGISTRATION!</b>
+                  <b>OCLOSE REGISTRATION</b>
                   <br />
                 </h2>
 
                 <figure>
                   <a
-                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    href="/"
                     rel="noreferrer noopener"
                     target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
-                    Registration
+                    CLOSE REGISTRATION
                   </a>
                 </figure>
                 <a
@@ -168,18 +168,18 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>OPEN REGISTRATION!</b>
+                  <b>CLOSE REGISTRATION</b>
                   <br />
                 </h2>
 
                 <figure>
                   <a
-                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    href="/"
                     rel="noreferrer noopener"
                     target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
-                    Registration
+                    CLOSE REGISTRATION
                   </a>
                 </figure>
                 <a
@@ -213,18 +213,18 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>OPEN REGISTRATION!</b>
+                  <b>CLOSE REGISTRATION</b>
                   <br />
                 </h2>
 
                 <figure>
                   <a
-                    href="https://bit.ly/REGISTRATION-AISEEF-2024"
+                    href="/"
                     rel="noreferrer noopener"
                     target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
-                    Registration
+                    CLOSE REGISTRATION
                   </a>
                 </figure>
                 <a
