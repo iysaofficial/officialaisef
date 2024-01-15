@@ -86,7 +86,6 @@ class HomeOwlSlider extends Component {
                   <a
                     href="/"
                     rel="noreferrer noopener"
-                    target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
                     CLOSE REGISTRATION
@@ -131,7 +130,6 @@ class HomeOwlSlider extends Component {
                   <a
                     href="/"
                     rel="noreferrer noopener"
-                    target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
                     CLOSE REGISTRATION
@@ -176,7 +174,6 @@ class HomeOwlSlider extends Component {
                   <a
                     href="/"
                     rel="noreferrer noopener"
-                    target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
                     CLOSE REGISTRATION
@@ -221,7 +218,6 @@ class HomeOwlSlider extends Component {
                   <a
                     href="/"
                     rel="noreferrer noopener"
-                    target="_blank"
                     className="site-button m-r10 white button-lg"
                   >
                     CLOSE REGISTRATION
