@@ -65,9 +65,9 @@ class HomeOwlSlider extends Component {
         className="owl-slider owl-carousel owl-theme owl-none"
         {...settings}
       >
-        <div className="item slide-item">
+        {/* <div className="item slide-item">
           <div className="slide-item-img">
-            <img src={Slider4} className="w-100" alt="" />
+            <img src={Slider1} className="w-100" alt="" />
           </div>
           <div className="slide-content overlay-primary">
             <div className="slide-content-box container">
@@ -78,7 +78,7 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>CLOSE REGISTRATION</b>
+                  <b>COMING SOON 2025</b>
                   <br />
                 </h2>
 
@@ -92,23 +92,17 @@ class HomeOwlSlider extends Component {
                   </a>
                 </figure>
                 <a
-                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  href="https://youtu.be/iUgvM_VA1U8"
                   rel="noreferrer noopener"
                   target="_blank"
                   className="site-button m-r10 white button-lg"
                 >
                   After Movie
                 </a>
-                {/* <a
-                  href="https://drive.google.com/file/d/1TmCK_U8rYBSFkVUPsI-w2u_Kj0YxuZU0/view?usp=sharing"
-                  className="site-button outline outline-2 button-lg"
-                >
-                  Learn More
-                </a> */}
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="item slide-item">
           <div className="slide-item-img">
             <img src={Slider1} className="w-100" alt="" />
@@ -122,21 +116,21 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>OCLOSE REGISTRATION</b>
+                  <b>Coming Soon 2025</b>
                   <br />
                 </h2>
 
-                <figure>
+                {/* <figure>
                   <a
                     href="/"
                     rel="noreferrer noopener"
                     className="site-button m-r10 white button-lg"
                   >
-                    CLOSE REGISTRATION
+                    Coming Soon 2025
                   </a>
-                </figure>
+                </figure> */}
                 <a
-                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  href="https://youtu.be/iUgvM_VA1U8"
                   rel="noreferrer noopener"
                   target="_blank"
                   className="site-button m-r10 white button-lg"
@@ -166,21 +160,21 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>CLOSE REGISTRATION</b>
+                  <b>Coming Soon 2025</b>
                   <br />
                 </h2>
 
-                <figure>
+                {/* <figure>
                   <a
                     href="/"
                     rel="noreferrer noopener"
                     className="site-button m-r10 white button-lg"
                   >
-                    CLOSE REGISTRATION
+                    Coming Soon 2025
                   </a>
-                </figure>
+                </figure> */}
                 <a
-                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  href="https://youtu.be/iUgvM_VA1U8"
                   rel="noreferrer noopener"
                   target="_blank"
                   className="site-button m-r10 white button-lg"
@@ -210,21 +204,21 @@ class HomeOwlSlider extends Component {
                 </h2>
 
                 <h2 className="text-white font-weight-400">
-                  <b>CLOSE REGISTRATION</b>
+                  <b>Coming Soon 2025</b>
                   <br />
                 </h2>
 
-                <figure>
+                {/* <figure>
                   <a
                     href="/"
                     rel="noreferrer noopener"
                     className="site-button m-r10 white button-lg"
                   >
-                    CLOSE REGISTRATION
+                    Coming Soon 2025
                   </a>
-                </figure>
+                </figure> */}
                 <a
-                  href="https://www.youtube.com/watch?v=f0irpFOXnsE"
+                  href="https://youtu.be/iUgvM_VA1U8"
                   rel="noreferrer noopener"
                   target="_blank"
                   className="site-button m-r10 white button-lg"

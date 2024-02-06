@@ -16,7 +16,7 @@ const defaultAccordion = [
 	{
 	  title: '3. Where do you upload the competition file, Minsa',
 	  text:
-		'The drive link for uploading files and the link for uploading proof of payment will be included in the invoice.
+		'The drive link for uploading files and the link for uploading proof of payment will be included in the invoice.',
 	},
 	{
 	  title: '4. I want to pay the registration fee but how come I cant find the invoice? and where is the payment transferred?',

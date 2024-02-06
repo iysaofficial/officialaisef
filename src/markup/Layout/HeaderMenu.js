@@ -38,6 +38,16 @@ class HeaderMenu extends Component {
                 </a>
               </li>
               <li>
+                <a
+                  href="https://drive.google.com/file/d/1pMVsO2XAdJwAxt6XFvkDIv4Bb193A_JO/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="dez-page"
+                >
+                  List of Winner 2024
+                </a>
+              </li>
+              {/* <li>
                 <Link
                   to={"./Listwinner"}
                   rel="noreferrer noopener"
@@ -45,7 +55,7 @@ class HeaderMenu extends Component {
                 >
                   Special Award 2023
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </li>
 
@@ -69,6 +79,14 @@ class HeaderMenu extends Component {
                   className="dez-page"
                 >
                   Press Release 2023
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/1rJEyYNhte35EajnhJWDQOAeUP7iA93B6/view?usp=sharing"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="dez-page"
+                >
+                  Press Release 2024
                 </a>
               </li>
             </ul>
@@ -156,7 +174,7 @@ class HeaderMenu extends Component {
               FAQ
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               to={"./gallery-event"}
               rel="noreferrer noopener"
@@ -164,6 +182,49 @@ class HeaderMenu extends Component {
             >
               Gallery Event
             </Link>
+          </li> */}
+          <li>
+            <Link to={"#"}>
+              Gallery <i className="fa fa-chevron-down"></i>{" "}
+            </Link>
+            <ul className="sub-menu left">
+              <li>
+                <li>
+                  <a
+                    href="https://drive.google.com/drive/folders/1ioojq_xO1Xq7T04UI9KAr8N46HP6NaHN?usp=drive_link"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="dez-page"
+                  >
+                    Gallery 2021
+                  </a>
+                  <a
+                    href="https://drive.google.com/drive/folders/1hpa_1iZgTi6rI7HgaKgifHPZQeWlmLtg?usp=drive_link"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="dez-page"
+                  >
+                    Gallery 2022
+                  </a>
+                  <a
+                    href="https://drive.google.com/drive/folders/16SdwoM54Utvjr6nt48UC50JJ0yyQ9Dt8?usp=drive_link"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="dez-page"
+                  >
+                    Gallery 2023
+                  </a>
+                  <a
+                    href="https://drive.google.com/drive/folders/1teW8XhtTbXdt6RcmL_KNF6hPEj6SMI_A?usp=drive_link"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="dez-page"
+                  >
+                    Gallery 2024
+                  </a>
+                </li>
+              </li>
+            </ul>
           </li>
           <li>
             <Link to={"#"}>
