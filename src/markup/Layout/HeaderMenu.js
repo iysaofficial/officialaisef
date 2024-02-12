@@ -234,12 +234,12 @@ class HeaderMenu extends Component {
               <li>
                 <li>
                   <a
-                    href="https://drive.google.com/drive/folders/1z0Iabx2X9TJ3tNm5ejm2ALEDykX0_Aip?usp=sharing"
+                    href="https://drive.google.com/drive/folders/1E8v96STiwpVEdVei7z2RBh7DoLdjAs0R?usp=sharing"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="dez-page"
                   >
-                    Certificate Supervisor
+                    Certificate Supervisor 2024
                   </a>
                 </li>
               </li>
