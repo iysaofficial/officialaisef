@@ -19,7 +19,7 @@ class HeaderMenu extends Component {
             <ul className="sub-menu left">
               <li>
                 <a
-                  href="https://docs.google.com/spreadsheets/d/1ji1welz8f3ApJZeTM3PsfSaHdtQZ2RYWkt_jwgMRRt0/edit?usp=sharing"
+                  href="https://drive.google.com/file/d/1qXpDh4KdiyINGBL7nQFxZNFIa9OL-7k0/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="dez-page"
@@ -29,7 +29,7 @@ class HeaderMenu extends Component {
               </li>
               <li>
                 <a
-                  href="https://docs.google.com/spreadsheets/d/1Fo7itbnl6YqsXy543HCq4wFC11-Zk6ifnxUeH9F4l0Q/edit?usp=sharing"
+                  href="https://drive.google.com/file/d/1yDfiFMAUrV8GKDapO9iwGMsm6dRnLWB5/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="dez-page"
@@ -39,7 +39,7 @@ class HeaderMenu extends Component {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1pMVsO2XAdJwAxt6XFvkDIv4Bb193A_JO/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1GAVTRmKk_1Tk-VUDfoc8y606fpCfK6M4/view"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="dez-page"
