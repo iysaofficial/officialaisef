@@ -166,6 +166,16 @@ class HeaderMenu extends Component {
                     Curation 2023
                   </a>
                 </li>
+                <li>
+                  <a
+                    href="https://drive.google.com/drive/folders/1rD-txCe9HIgiw52Vm5Zq1uFfxTuNm0Yx?usp=drive_link"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="dez-page"
+                  >
+                    Curation 2024
+                  </a>
+                </li>
               </li>
             </ul>
           </li>
