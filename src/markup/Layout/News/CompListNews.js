@@ -9,12 +9,140 @@ import Gambar2 from "../../../images/News/MHSUnimed.WebP";
 import Gambar3 from "../../../images/News/MAN1Malang.WebP";
 import Gambar4 from "../../../images/News/UNEJ.WebP";
 import Gambar5 from "../../../images/News/PelajarLamongan.WebP";
+import Gambar6 from "../../../images/News/et.png";
+import Gambar7 from "../../../images/News/Onsoed.webp";
+import Gambar8 from "../../../images/News/smpn1cilacap.jpg";
+import Gambar9 from "../../../images/News/yo.jpeg";
 
 class CompListNews extends Component {
   render() {
     return (
       <>
         <body>
+          <h1 className="text-center mt-2 fw-bold">NEWS 2024</h1>
+          <div class="container mt-4">
+            <div class="row">
+              {/* list 1 awal */}
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
+                <div class="card">
+                  <img
+                    src={Gambar6}
+                    class="card-img-top img-fluid p-2"
+                    alt="Gambar Berita 1"
+                  ></img>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a href="/News6">
+                        ITB and Unsri Team Take 3rd Place at AISEEF 2024 with
+                        Learning Media Platform
+                      </a>
+                    </h5>
+                    <p class="card-text">
+                      The Bandung Institute of Technology (ITB) team, in
+                      collaboration with Sriwijaya University (UNSRI), won a
+                      bronze medal in the bronze medal in the ASEAN Innovative
+                      Science, Environmental, And Entrepreneur Fair (AISEEF)
+                      2024...
+                    </p>
+
+                    <h1 className="btn-primary btn">
+                      <a href="/News6">Read more</a>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+              {/* list 1 akhir */}
+              {/* List 2 awal */}
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
+                <div class="card">
+                  <img
+                    src={Gambar7}
+                    class="card-img-top img-fluid p-2"
+                    alt="Gambar Berita 2"
+                  ></img>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a href="/News7">
+                        Unsoed delegates win four medals at the AISEEF 2024
+                        event
+                      </a>
+                    </h5>
+                    <p class="card-text">
+                      Universitas Jenderal Soedirman (Unsoed) Purwokerto again
+                      incised brilliant achievements in the international arena
+                      through its participation in the Asean Innovative Science
+                      Environmental and Entrepreneur Fair (AISEEF) 2024...
+                    </p>
+
+                    <h1 className="btn-primary btn">
+                      <a href="/News7">Read more</a>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+              {/* List 2 akhir */}
+              {/* List 3 awal */}
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
+                <div class="card">
+                  <img
+                    src={Gambar8}
+                    class="card-img-top img-fluid p-2"
+                    alt="Gambar Berita 3"
+                  ></img>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a href="/News8">
+                        SMP Negeri 1 Cilacap wins silver medal in event AISEEF
+                        Year 2024
+                      </a>
+                    </h5>
+                    <p class="card-text">
+                      SMP Negeri 1 Cilacap donated the Silver Medal for
+                      Indonesia. The SMP Negeri 1 Cilacap team consisting of
+                      Talitha Qonita Rahman, Athifa Hapsari Anugrah Mulia,
+                      Callysta Rahma Putri, Chintya Ayu Maheswari, and
+                      Maqrifatika Puspa Hanum...
+                    </p>
+
+                    <h1 className="btn-primary btn">
+                      <a href="/News8">Read more</a>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+              {/* List 3 akhir */}
+
+              {/* List 4 awal */}
+              <div class="col-lg-3 col-md-6 col-sm-12  mb-4">
+                <div class="card">
+                  <img
+                    src={Gambar9}
+                    class="card-img-top img-fluid p-2"
+                    alt="Gambar Berita 4"
+                  ></img>
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      <a href="/News9">
+                        FT Undip and IYSA Successfully Hold the 5th AISEEF
+                      </a>
+                    </h5>
+                    <p class="card-text">
+                      The 5th Asean Innovative Science Environmental And
+                      Entrepreneur Fair (AISEEF) 5th was successfully held at
+                      Prof. Sudarto Building, S.H., Undip Tembalang campus,
+                      Semarang...
+                    </p>
+
+                    <h1 className="btn-primary btn">
+                      <a href="/News9">Read more</a>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+              {/* List 4 akhir */}
+            </div>
+          </div>
+
           <div class="container mt-4">
             <div class="row">
               {/* list 1 awal */}
