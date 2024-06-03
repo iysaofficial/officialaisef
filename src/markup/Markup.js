@@ -20,6 +20,11 @@ import CompNews7 from "./Layout/News/CompNews7";
 import CompNews8 from "./Layout/News/CompNews8";
 import CompNews9 from "./Layout/News/CompNews9";  
 
+import lowtahun from "./Pages/LoW/lowtahun";
+import kategori2024 from "./Pages/LoW/2024/kategori";
+import jenjangofl2024 from "./Pages/LoW/2024/jenjangofl";
+import jenjangonl2024 from "./Pages/LoW/2024/jenjangonl";
+
 import Faqs from "./Pages/Faq";
 import Contact from "./Pages/Contact";
 import ProtfolioFullWidth from "./Pages/Protfolio/ProtfolioFullWidth";
@@ -51,6 +56,11 @@ class Markup extends Component {
             <Route path="/News7" exact component={CompNews7} />
             <Route path="/News8" exact component={CompNews8} />
             <Route path="/News9" exact component={CompNews9} />
+
+            <Route path="/lowtahun" exact component={lowtahun} />
+            <Route path="/kategori24" exact component={kategori2024} />
+            <Route path="/jenjangofl24" exact component={jenjangofl2024} />
+            <Route path="/jenjangonl24" exact component={jenjangonl2024} />
 
             <Route path="/gallery-event" exact component={ProtfolioFullWidth} />
             <Route path="/Listwinner" exact component={Listwinner} />

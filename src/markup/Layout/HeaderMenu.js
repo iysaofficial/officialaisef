@@ -13,23 +13,23 @@ class HeaderMenu extends Component {
           </li>
 
           <li>
-            <Link to={"#"}>
-              List Of Winners <i className="fa fa-chevron-down"></i>{" "}
+            <Link to={"/lowtahun"}>
+              List Of Winners
+               {/* <i className="fa fa-chevron-down"></i>{" "} */}
             </Link>
-            <ul className="sub-menu left">
-              <li>
+            {/* <ul className="sub-menu left"> */}
+              {/* <li>
                 <a
-                  href="https://drive.google.com/file/d/1qXpDh4KdiyINGBL7nQFxZNFIa9OL-7k0/view?usp=sharing"
-                  target="_blank"
+                  href="/lowtahun"
                   rel="noreferrer noopener"
                   className="dez-page"
                 >
-                  List of Winner 2022
+                  List of Winner 2024
                 </a>
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1yDfiFMAUrV8GKDapO9iwGMsm6dRnLWB5/view?usp=sharing"
+                  href=""
                   target="_blank"
                   rel="noreferrer noopener"
                   className="dez-page"
@@ -39,14 +39,14 @@ class HeaderMenu extends Component {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1GAVTRmKk_1Tk-VUDfoc8y606fpCfK6M4/view"
+                  href=""
                   target="_blank"
                   rel="noreferrer noopener"
                   className="dez-page"
                 >
-                  List of Winner 2024
+                  List of Winner 2022
                 </a>
-              </li>
+              </li> */}
               {/* <li>
                 <Link
                   to={"./Listwinner"}
@@ -56,7 +56,7 @@ class HeaderMenu extends Component {
                   Special Award 2023
                 </Link>
               </li> */}
-            </ul>
+            {/* </ul> */}
           </li>
 
           {/* PRESSRELEASE */}

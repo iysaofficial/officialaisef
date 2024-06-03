@@ -131,7 +131,7 @@ body {
   margin: 0;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  /* font-smoothing: antialiased; */
 }
 a {
   color: #6f6f6f;
@@ -159,6 +159,13 @@ p a {
 .News-detail img {
   width: 100%;
   max-width: 750px;
+}
+.page{
+  padding-top: 5rem;
+}
+.wrapper-btn{
+  margin: auto 0;
+  width: 100%;
 }
 
 /* Akhir Tambahan */
@@ -1270,9 +1277,6 @@ dl dd {
 .bg-transparent {
   background-color: transparent;
 }
-.bg-primary {
-  background-color: ;
-}
 .bg-white {
   background-color: #fff;
 }
@@ -1566,9 +1570,6 @@ dl dd {
 }
 /*effect 9*/
 
-.dlab-img-overlay9:before,
-.dlab-img-overlay9:after {
-}
 .dlab-img-overlay9:after {
   left: auto;
   right: 0;
@@ -1745,7 +1746,7 @@ dl dd {
   position: relative;
   overflow: hidden;
   display: block;
-  vertical-align: middle;
+  /* vertical-align: middle; */
 }
 .dlab-img-effect img {
   display: block;
@@ -2194,7 +2195,6 @@ label {
 /*radio & checkbox*/
 input[type="checkbox"],
 input[type="radio"] {
-  display: ;
   opacity: 0;
   margin-left: 1px !important;
   position: absolute;
@@ -3200,7 +3200,7 @@ blockquote:before {
 /* Header Center */
 .site-header.center .header-nav .nav {
   display: inline-block;
-  float: left;
+  float: none;
   width: 35%;
 }
 .site-header.center .navbar-nav > li {
@@ -3371,8 +3371,6 @@ blockquote:before {
   header .logo {
     display: block;
     padding: 4px 0;
-  }
-  .header-nav .nav > li > a {
   }
   .header-nav .nav i {
     margin-top: 6px;
@@ -4145,8 +4143,6 @@ blockquote:before {
   color: #fff;
   opacity: 0.8;
 }
-.next-element i {
-}
 .dlab-bnr-inr .breadcrumb-row ul li:after,
 .dlab-bnr-inr .breadcrumb-row ul li:last-child {
   color: #fff;
@@ -4359,7 +4355,6 @@ blockquote:before {
 .owl-theme .owl-dots .owl-dot {
   display: inline-block;
   zoom: 1;
-  *display: inline;
 }
 .owl-theme .owl-dots .owl-dot span {
   width: 10px;
@@ -4367,7 +4362,7 @@ blockquote:before {
   margin: 5px 7px;
   background: #d6d6d6;
   display: block;
-  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
   -webkit-transition: opacity 200ms ease;
   -moz-transition: opacity 200ms ease;
   -ms-transition: opacity 200ms ease;
@@ -4382,8 +4377,6 @@ blockquote:before {
   background: #869791;
 }
 /* owl dots style */
-.owl-theme.dots-style-1 .owl-dots .owl-dot {
-}
 .owl-theme.dots-style-1 .owl-dots .owl-dot span,
 .owl-theme.dots-style-2 .owl-dots .owl-dot span {
   background: rgba(0, 0, 0, 0.2);
@@ -4965,7 +4958,7 @@ blockquote:before {
 .share-btn ul li {
   display: inline-block;
   margin-left: -40px;
-  float: left;
+  /* float: left; */
   transition: all 0.5s;
   -moz-transition: all 0.5s;
   -o-transition: all 0.5s;
@@ -6006,7 +5999,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .widget_gallery li {
   display: inline-block;
   width: 33.33%;
-  float: left;
+  /* float: left; */
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -6112,7 +6105,6 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .widget-testimonial .testimonial-position {
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
-  color: #888q;
   font-size: 12px;
   font-style: inherit;
 }
@@ -6337,7 +6329,7 @@ a,
 
 /* Bootstrap button */
 .btn {
-  -moz-user-select: none;
+  user-select: none;
   border: 1px solid rgba(0, 0, 0, 0);
   border-radius: 4px;
   display: inline-block;
@@ -7442,7 +7434,7 @@ a,
 .site-button-link.yellow:hover,
 .site-button-link.yellow:active,
 .site-button-link.yellow:focus {
-  color: ##d4af19;
+  color: #d4af19;
 }
 /* purple */
 
@@ -9599,7 +9591,7 @@ ul[class*="list-"] {
 .testimonial-10 .testimonial-position {
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
-  color: #888q;
+  color: #888;
   font-size: 12px;
   font-style: inherit;
 }
@@ -10211,7 +10203,7 @@ ul[class*="list-"] {
 .overlay-primary-middle:after,
 .overlay-primary-dark:after,
 .overlay-primary:after {
-  background: ;
+  background: #fff;
 }
 .overlay-black-light:after {
   opacity: 0.3;
@@ -11000,8 +10992,7 @@ ul[class*="list-"] {
 }
 
 /* pagination color */
-.pagination-bx.primary {
-}
+
 .pagination-bx.primary .pagination > li > a,
 .pagination-bx.primary .pagination > li > span {
   background-color: #1abc9c;
@@ -11429,8 +11420,6 @@ footer.footer-white .footer-bottom a {
 }
 /*= Section Content Part =*/
 
-.section-content {
-}
 @media only screen and (max-width: 1024px) {
   .section-full {
     background-attachment: scroll !important;
@@ -11785,7 +11774,7 @@ ol.commentlist li .star-rating {
   transition: all 0.5s;
   transition: all 0.5s;
   -webkit-transition: all 0.5s;
-  -moz-transform: translate(0px, -50%);
+  transform: translate(0px, -50%);
   -moz-transform: translate(0px, -50%);
   -o-transform: translate(0px, -50%);
   -webkit-transform: translate(0px, -50%);
@@ -12047,9 +12036,6 @@ ol.commentlist li .star-rating {
   .team-info-box {
     width: 100%;
     display: block;
-  }
-  .team-mamber-img,
-  .team-info-box {
   }
 }
 
@@ -12939,8 +12925,6 @@ ol.commentlist li .star-rating {
 .shop-categories .acod-content {
   margin: 15px 0 15px;
 }
-.shop-categories .collapsed {
-}
 .shop-categories .acod-head a.collapsed:after,
 .shop-categories .acod-head a:after {
   font-family: open sans;
@@ -13131,8 +13115,7 @@ ol.commentlist li .star-rating {
   padding: 10px 15px;
   opacity: 0.8;
 }
-.site-filters .filter-curs li {
-}
+
 .site-filters .filter-curs li.active a {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1ebbf0+8,39dfaa+100 */
   background: #1ebbf0; /* Old browsers */
@@ -13198,8 +13181,6 @@ ol.commentlist li .star-rating {
   font-weight: 700;
   padding: 9px 30px;
   text-transform: uppercase;
-}
-.buy-now a:hover {
 }
 .trigger-logo {
   border-right: 1px solid rgba(0, 0, 0, 0.1);
@@ -13510,8 +13491,6 @@ ol.commentlist li .star-rating {
 }
 
 /* Plugine box */
-.plugine-box {
-}
 /* 	Hover Effects 
 	> Box Shadow Hover
 
