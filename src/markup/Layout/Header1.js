@@ -140,7 +140,7 @@ class Header1 extends Component {
                       <img src={logo2} alt="" />
                     </Link>
                   </div>
-                  {/*  Header Menu Contents  */}
+                  
                   <HeaderMenu />
                   {/*  Header Menu Contents End */}
                 </div>
